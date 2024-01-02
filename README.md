@@ -1,4 +1,4 @@
-# Python Calculator with Tkintr
+# Python Calculator with Tkinter
 
 This simple calculator is implemented in Python using the Tkinter library for the graphical user interface.
 
