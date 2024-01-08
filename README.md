@@ -11,15 +11,16 @@ This simple calculator is implemented in Python using the Tkinter library for th
 ## How to Use
 
 1. Clone the repository:
-git clone https://github.com/H3nryK/python-desktop-calculator.git
-2. cd python-calculator
-3. python calculator.py
+   ```bash
+   git clone https://github.com/H3nryK/python-desktop-calculator.git
+3. cd python-calculator
+4. python calculator.py
 
 
 ## Dependecies
 
-Python 3.0 +
-Tkinter library
+- Python 3.0 +
+- Tkinter library
 
 ## Contribution
 
